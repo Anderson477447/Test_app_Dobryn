@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-08-13 16:22">
+
+<offer id="1" available="true" group_id="1111111">
+<name>Xiaomi Redmi Note 13 Pro 4G 12/512 ГБ (NFC) Global, черный</name>
+<url>https://www.dns-shop.ru/product/7a84ddcb9028ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-cernyj/?utm_medium=organic&utm_source=google&utm_referrer=https%3A%2F%2Fwww.google.com%2F</url>
+<group_id>1</group_id>
+<price>24690</price>
+<oldprice>25990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Смартфон</typePrefix>
+<param name="Обьём основной памяти">512</param>
+<param name="Цвет" hex="#000000">Черный</param>
+<description>Производительность MediaTek Helio G99-Ультра 6-нм восьмиядерный процессор Превосходная производительность и плавный ежедневный опыт.</description>
+<picture>https://imageup.ru/img232/4911471/redmi-12-note-black.jpeg</picture>
+
+<offer id="2" available="true" group_id="1111111">
+<name>Xiaomi Redmi Note 13 Pro 4G 12/512 ГБ (NFC) Global, фиолетовый</name>
+<url>https://www.dns-shop.ru/product/807d79729028ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-fioletovyj/</url>
+<group_id>1</group_id>
+<price>24690</price>
+<oldprice>25990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Смартфон</typePrefix>
+<param name="Обьём основной памяти">512</param>
+<param name="Цвет" hex="#800080">Фиолетовый</param>
+<description>Производительность MediaTek Helio G99-Ультра 6-нм восьмиядерный процессор Превосходная производительность и плавный ежедневный опыт.</description>
+<picture>https://imageup.ru/img118/4911452/redmi-note-13-fioletovyi.jpg</picture>
+
+<offer id="3" available="true" group_id="1111111">
+<name>Xiaomi Redmi Note 13 Pro 4G 12/512 ГБ (NFC) Global, зеленый</name>
+<url>https://www.dns-shop.ru/product/7e4289c59028ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-zelenyj/</url>
+<group_id>1</group_id>
+<price>24690</price>
+<oldprice>25990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Смартфон</typePrefix>
+<param name="Обьём основной памяти">512</param>
+<param name="Цвет" hex="#008000">Зеленый</param>
+<description>Производительность MediaTek Helio G99-Ультра 6-нм восьмиядерный процессор Превосходная производительность и плавный ежедневный опыт.</description>
+<picture>https://imageup.ru/img134/4911456/tempimagepr7pyw.jpg</picture>
+
+<offer id="000004" available="true" group_id="2222222">
+<name>Apple iPad Air 11 2024 M2, 256 ГБ, Wi-Fi, iPadOS, серый</name>
+<url>https://________</url>
+<group_id>2</group_id>
+<price>69690</price>
+<oldprice>75990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Планшет</typePrefix>
+<param name="Обьём основной памяти">256</param>
+<param name="Цвет" hex="#D3D3D3">Серый</param>
+<description>11" Планшет Apple iPad Air 11 2024 M2, 256 ГБ, Wi-Fi, iPadOS, space gray</description>
+<picture>https://imageup.ru/img226/4911459/apple-ipad-air-11-256-seryi.jpg</picture>
+
+<offer id="000005" available="true" group_id="2222222">
+<name>Apple iPad Air 11 2024 M2, 512 ГБ, Wi-Fi, iPadOS, серый</name>
+<url>https://i-point.ru/ipad/air-2024/11-wi-fi-512Gb-space-gray/</url>
+<group_id>2</group_id>
+<price>99690</price>
+<oldprice>105990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Планшет</typePrefix>
+<param name="Обьём основной памяти">512</param>
+<param name="Цвет" hex="#D3D3D3">Серый</param>
+<description>11" Планшет Apple iPad Air 11 2024 M2, 512 ГБ, Wi-Fi, iPadOS, space gray</description>
+<picture>https://imageup.ru/img226/4911459/apple-ipad-air-11-256-seryi.jpg</picture>
+
+<offer id="000006" available="true" group_id="2222222">
+<name>Apple iPad Air 11 2024 M2, 128 ГБ, Wi-Fi, iPadOS, серый</name>
+<url>https://i-point.ru/ipad/air-2024/11-wi-fi-128gb-space-gray/</url>
+<price>49690</price>
+<oldprice>55990</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Планшет</typePrefix>
+<param name="Обьём основной памяти">128</param>
+<param name="Цвет" hex="#D3D3D3">Серый</param>
+<description>11" Планшет Apple iPad Air 11 2024 M2, 128 ГБ, Wi-Fi, iPadOS, space gray</description>
+<picture>https://imageup.ru/img226/4911459/apple-ipad-air-11-256-seryi.jpg</picture>
+
+<offer id="000007" available="true" group_id="3333333">
+<name>Huawei Watch GT 3 Classic 46 мм (Jupiter-B29S), черный</name>
+<url>https://drtechno.ru/?page=product&Id=28340</url>
+<price>13000</price>
+<oldprice>15000</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Планшет</typePrefix>
+<param name="Влагозащита">до 50 метров</param>
+<param name="Цвет" hex="#000000">Черный</param>
+<description>Модель поддерживает более 100 режимов тренировок, в том числе бег, плавание, езду на велосипеде, лыжи и хайкинг.</description>
+<picture>https://imageup.ru/img191/4911464/huawei-watch-gt3.jpeg</picture>
+
+<offer id="000008" available="true" group_id="3333333">
+<name>Huawei Watch Fit 2 Active Edition 46 мм ( Yoda-B09), черный</name>
+<url>https://drtechno.ru/?page=product&Id=33647</url>
+<price>14000</price>
+<oldprice>16000</oldprice>
+<currencyId>RUB</currencyId>
+<typePrefix>Планшет</typePrefix>
+<param name="Влагозащита">WR50 (5 атм)</param>
+<param name="Цвет" hex="#000000">Черный</param>
+<description>Функция Tap to Transfer позволяет передавать файлы между устройствами Huawei одним касанием.</description>
+<picture>https://imageup.ru/img89/4911466/huawei-watch-fit2.jpeg</picture>
+
+</?xml version="1.0" encoding="UTF-8"?>
+</yml_catalog date="2024-08-13 16:22">
